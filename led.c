@@ -14,7 +14,7 @@ union {
    uint32_t idx;
 } U; // 用 index 去控制 P0 P1 P2
 
-int main()
+void main()
 {
    uint8_t flag = 1;
    unsigned d1, d2;
