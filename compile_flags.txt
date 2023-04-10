@@ -1,0 +1,4 @@
+-I
+/opt/homebrew/share/sdcc/include/mcs51/
+-I
+/opt/homebrew/share/sdcc/include/
