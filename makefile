@@ -1,4 +1,4 @@
-TARGET = 7seg
+TARGET = test
 CC = sdcc
 CFLAGS = 
 
